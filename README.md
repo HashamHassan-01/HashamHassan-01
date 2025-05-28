@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HashamHassan-01
-- 👀 I’m interested in Game Developmet and Cyber Security
+- 👀 I’m interested in Machine Learning and Game Development
 - 🌱 I’m currently learning C++ Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my Gmail as: hashamhassan987@gmail.com
