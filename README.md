@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm HASHAM HASSAN</h1>
+[<img src="https://github.com/hashamhaassan01.png" alt="👋 Hi there! I'm Hasham Hasan" title="👋 Hi there! I'm Hasham Hasan"/>](https://github.com/hashamhaassan01)
+
+
+
 <h3 align="center">I work with Java and Python, and I am particularly passionate about advancing my skills in Machine Learning.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
