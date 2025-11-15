@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">I work with Java and Python, and I am particularly passionate about advancing my skills in Machine Learning.</h3>
+<h3 align="center">I work with C++, Java and Python, and I am particularly passionate about advancing my skills in Machine Learning.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
