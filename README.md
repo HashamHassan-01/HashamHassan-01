@@ -1,4 +1,6 @@
-[<img src="https://github.com/hashamhaassan01.png" alt="👋 Hi there! I'm Hasham Hasan" title="👋 Hi there! I'm Hasham Hasan"/>](https://github.com/hashamhaassan01)
+<img src="https://raw.githubusercontent.com/HashamHassan-01/HashamHassan-01/main/Banner.png" width="100%" alt="Hasham Hassan Banner">
+
+## Hi there! 👋 I'm Hasham Hassan, a passionate Software Engineer.
 
 
 
